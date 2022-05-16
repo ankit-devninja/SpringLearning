@@ -7,3 +7,4 @@ Learning Spring / Springboot framework from scratch (using JAVA) [one can use Ko
 3. Learnt Dependency Injection
 4. Learnt JPA module using H2 in memory database
 5. Handling of annotation and building (Components / Entity / Serive / Repository (using JPA))
+6. Custom JPA methods to handle multiple DB commands.
